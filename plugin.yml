@@ -1,0 +1,9 @@
+author: GreenZack
+description: A simple anti-griefing plugin for Bukkit Minecraft servers.
+main: us.GreenZack.AntiGrief.AntiGrief
+name: AntiGrief
+version: 3.2
+commands:
+    ag:
+        description: ag
+        usage: Use /ag reload to reload the configuration
